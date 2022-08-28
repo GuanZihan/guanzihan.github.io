@@ -22,3 +22,13 @@ Master Thesis
 <img src="/images/nn2d.png" alt="Verfication"  width="288" height="200"/>
 <img src="/images/pgd.png" alt="Verfication"  width="288" height="216"/>
 </div>
+
+## Miscellaneous
+I love working out, especially street working out. \
+Current progress (updated to 2022/8/28):
+- Pull-up: 14
+- L-support: 10 (seconds)
+- Tucked Planche: 10 (seconds)  
+- Wall-assisted handstand： 30 (seconds)  
+- Bench Press: 70kg
+- Deadlift: 75kg
