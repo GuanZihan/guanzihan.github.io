@@ -16,6 +16,4 @@ I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
 
 ## Prior Projects
 ### A Tightened SDP Relaxation for Neural Network Verification Problem [[github]](https://github.com/soc-ucsd/verification)
-![alt text](../images/nn2d.png "Title" )
-
-<img src="/images/nn2d.png" alt="Verfication"  width="240" height="180"></img>
+<img src="/images/nn2d.png" alt="Verfication"  width="360" height="270"/>
