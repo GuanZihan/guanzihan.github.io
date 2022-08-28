@@ -16,8 +16,7 @@ I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
 
 ## Prior Projects
 ### A Tightened SDP Relaxation for Neural Network Verification Problem [[github]](https://github.com/soc-ucsd/verification)
-Zihan Guan, Yang zheng, Alessio Lomuscio 
-
+Zihan Guan, Yang zheng, Alessio Lomuscio \
 Master Thesis
 <div>
 <img src="/images/nn2d.png" alt="Verfication"  width="360" height="270"/>
