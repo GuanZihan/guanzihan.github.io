@@ -19,6 +19,6 @@ I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
 Zihan Guan, Yang zheng, Alessio Lomuscio \
 Master Thesis
 <div>
-<img src="/images/nn2d.png" alt="Verfication"  width="288" height="216"/>
+<img src="/images/nn2d.png" alt="Verfication"  width="288" height="200"/>
 <img src="/images/pgd.png" alt="Verfication"  width="288" height="216"/>
 </div>
