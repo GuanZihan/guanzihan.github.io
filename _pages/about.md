@@ -15,12 +15,20 @@ I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
 
 
 ## Prior Projects
+### Feature Synchronization in Backdoor Attacks  [[OpenReview]](https://openreview.net/pdf?id=wxyLBOk-ag)
+Zihan Guan, Yang zheng, Alessio Lomuscio \
+Master Thesis
+<div>
+<img src="/images/dba.png" alt="DBA"  width="576" height="216"/>
+</div>
+
 ### A Tightened SDP Relaxation for Neural Network Verification Problem [[github]](https://github.com/soc-ucsd/verification)
 Zihan Guan, Yang zheng, Alessio Lomuscio \
 Master Thesis
 <div>
 <img src="/images/verification.png" alt="Verfication"  width="576" height="216"/>
 </div>
+
 
 ## Miscellaneous
 I love working out, especially street working out. \
