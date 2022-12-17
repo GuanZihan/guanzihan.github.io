@@ -16,8 +16,7 @@ I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
 
 ## Prior Projects
 ### Feature Synchronization in Backdoor Attacks  [[OpenReview]](https://openreview.net/pdf?id=wxyLBOk-ag)
-Zihan Guan, Yang zheng, Alessio Lomuscio \
-Master Thesis
+Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu
 <div>
 <img src="/images/dba.png" alt="DBA"  width="576" height="216"/>
 </div>
