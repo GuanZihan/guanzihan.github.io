@@ -20,7 +20,6 @@ Zihan Guan, Mengnan Du, Ninghao Liu
 <div>
 <img src="/images/xgbd.png" alt="DBA"  width="576" height="216"/>
 </div>
-[paper][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
 
 
 ### Feature Synchronization in Backdoor Attacks  [[OpenReview]](https://openreview.net/pdf?id=wxyLBOk-ag)
