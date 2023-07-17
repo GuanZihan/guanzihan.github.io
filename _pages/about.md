@@ -35,7 +35,7 @@ Zihan Guan, Yang zheng, Alessio Lomuscio \
 <div>
 <img src="/images/verification.png" alt="Verfication"  width="576" height="216"/>
 </div>
-[paper(https://drive.google.com/file/d/1ytRh9aEzI-TtyV5WFTIGDT2NA3RcQzaL/view?usp=sharing)][[code]((https://github.com/soc-ucsd/verification))]
+[[paper](https://drive.google.com/file/d/1ytRh9aEzI-TtyV5WFTIGDT2NA3RcQzaL/view?usp=sharing)][[code]((https://github.com/soc-ucsd/verification))]
 
 
 ## Miscellaneous
