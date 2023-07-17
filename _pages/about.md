@@ -20,20 +20,22 @@ Zihan Guan, Mengnan Du, Ninghao Liu
 <div>
 <img src="/images/xgbd.png" alt="DBA"  width="576" height="216"/>
 </div>
+[paper][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
 
 
-### Feature Synchronization in Backdoor Attacks  [[OpenReview]](https://openreview.net/pdf?id=wxyLBOk-ag)
+### Feature Synchronization in Backdoor Attacks [Under Review]
 Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu
 <div>
 <img src="/images/dba.png" alt="DBA"  width="576" height="216"/>
 </div>
+[[paper](https://openreview.net/pdf?id=wxyLBOk-ag)][code]
 
-### A Tightened SDP Relaxation for Neural Network Verification Problem [[github]](https://github.com/soc-ucsd/verification)
+### A Tightened SDP Relaxation for Neural Network Verification Problem [Master Thesis]
 Zihan Guan, Yang zheng, Alessio Lomuscio \
-Master Thesis
 <div>
 <img src="/images/verification.png" alt="Verfication"  width="576" height="216"/>
 </div>
+[paper(https://drive.google.com/file/d/1ytRh9aEzI-TtyV5WFTIGDT2NA3RcQzaL/view?usp=sharing)][[code]((https://github.com/soc-ucsd/verification))]
 
 
 ## Miscellaneous
@@ -45,6 +47,4 @@ Current progress (updated to 2023/7/17):
 - Pull-up: 14
 - L-support: 10 (seconds)
 - Tucked Planche: 10 (seconds)  
-- Wall-assisted handstand： 30 (seconds)  
-
-- Deadlift: 75kg
+- Wall-assisted handstand： 30 (seconds)
