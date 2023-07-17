@@ -15,6 +15,14 @@ I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
 
 
 ## Prior Projects
+### XGBD: Explanation-Guided Graph Backdoor Detection [ECAI 2023, Poland]
+Zihan Guan, Mengnan Du, Ninghao Liu
+<div>
+<img src="/images/xgbd.png" alt="DBA"  width="576" height="216"/>
+</div>
+[paper][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
+
+
 ### Feature Synchronization in Backdoor Attacks  [[OpenReview]](https://openreview.net/pdf?id=wxyLBOk-ag)
 Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu
 <div>
@@ -30,11 +38,14 @@ Master Thesis
 
 
 ## Miscellaneous
-I love working out, especially street working out. \
-Current progress (updated to 2022/8/28):
+I love working out. \
+Current progress (updated to 2023/7/17):
+- Bench Press: 84kg
+- Deadlift: 125kg
+- Sqaut: 100kg
 - Pull-up: 14
 - L-support: 10 (seconds)
 - Tucked Planche: 10 (seconds)  
 - Wall-assisted handstand： 30 (seconds)  
-- Bench Press: 70kg
+
 - Deadlift: 75kg
