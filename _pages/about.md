@@ -23,7 +23,7 @@ Zihan Guan, Mengnan Du, Ninghao Liu
 [paper][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
 
 
-### Feature Synchronization in Backdoor Attacks [Under Review]
+### Feature Synchronization in Backdoor Attacks [CIKM 2023, UK]
 Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu
 <div>
 <img src="/images/dba.png" alt="DBA"  width="576" height="216"/>
@@ -31,7 +31,7 @@ Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu
 [[paper](https://openreview.net/pdf?id=wxyLBOk-ag)][code]
 
 ### A Tightened SDP Relaxation for Neural Network Verification Problem [Master Thesis]
-Zihan Guan, Yang zheng, Alessio Lomuscio \
+Zihan Guan, Yang zheng, Alessio Lomuscio
 <div>
 <img src="/images/verification.png" alt="Verfication"  width="576" height="216"/>
 </div>
@@ -39,7 +39,8 @@ Zihan Guan, Yang zheng, Alessio Lomuscio \
 
 
 ## Miscellaneous
-I love working out. \
+I love working out.
+
 Current progress (updated to 2023/7/17):
 - Bench Press: 84kg
 - Deadlift: 125kg
@@ -48,3 +49,5 @@ Current progress (updated to 2023/7/17):
 - L-support: 10 (seconds)
 - Tucked Planche: 10 (seconds)  
 - Wall-assisted handstand： 30 (seconds)
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNab61BCqqN7iSZD6CWpN4qtAnpG4NGD1sq4VmUEeDY&cl=ffffff&w=a"></script>
