@@ -41,7 +41,7 @@ Zihan Guan, Yang zheng, Alessio Lomuscio
 ## Miscellaneous
 I love working out.
 
-Current progress (updated to 2023/7/17):
+Current progress (updated to 2023/7/18):
 - Bench Press: 84kg
 - Deadlift: 125kg
 - Sqaut: 100kg
