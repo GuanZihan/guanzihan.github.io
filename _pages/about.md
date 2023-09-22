@@ -7,24 +7,26 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a first year Ph.D. student in [University of Georgia](https://www.uga.edu/), supervised by Prof. [Ninghao Liu](https://cobweb.cs.uga.edu/~ninghaoliu/). Prior to that, I obtained my master degree in [Imperial College London](https://www.imperial.ac.uk/), where I worked with [Prof. Alessio](https://www.imperial.ac.uk/people/a.lomuscio) and [Yang Zheng](https://zhengy09.github.io), and I obtained my bachelor degree in [Dalian University of Technology](http://en.dlut.edu.cn/), where I worked with Prof. [Xuewen Huang](http://faculty.dlut.edu.cn/2006011040/zh_CN/index.htm)
+I am a first year Ph.D. student in [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Anil Vullikanti](https://engineering.virginia.edu/faculty/anil-vullikanti). Prior to that, I obtained my master degree in [Imperial College London](https://www.imperial.ac.uk/), where I worked with [Prof. Alessio](https://www.imperial.ac.uk/people/a.lomuscio) and [Yang Zheng](https://zhengy09.github.io), and I obtained my bachelor degree in [Dalian University of Technology](http://en.dlut.edu.cn/), where I worked with Prof. [Xuewen Huang](http://faculty.dlut.edu.cn/2006011040/zh_CN/index.htm)
 
 
 ## Research Interests
-I am interested in Machine Learning Security, Trustworthy AI, and Optimization.
+I am broadly interested in Machine Learning Security, Privacy, Trustworthy AI, and Optimization.
+
+I am currently learning [differential privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf). Welcome any discussions if you are also interested in this field.
 
 
 ## Prior Projects
-### XGBD: Explanation-Guided Graph Backdoor Detection [ECAI 2023, Poland]
-Zihan Guan, Mengnan Du, Ninghao Liu
+### XGBD: Explanation-Guided Graph Backdoor Detection
+Zihan Guan, Mengnan Du, Ninghao Liu, ECAI 2023, Poland
 <div>
-<img src="/images/xgbd.png" alt="DBA"  width="576" height="216"/>
+<img src="/images/xgbd.png" alt="xgbd"  width="576" height="216"/>
 </div>
-[paper][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
+[[paper](https://arxiv.org/abs/2308.04406)][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
 
 
-### Feature Synchronization in Backdoor Attacks [CIKM 2023, UK]
-Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu
+### Feature Synchronization in Backdoor Attacks
+Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu, CIKM 2023, UK
 <div>
 <img src="/images/dba.png" alt="DBA"  width="576" height="216"/>
 </div>
