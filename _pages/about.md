@@ -13,7 +13,7 @@ I am a first year Ph.D. student in [University of Virginia](https://www.virginia
 ## Research Interests
 I am broadly interested in Machine Learning Security, Privacy, Trustworthy AI, and Optimization.
 
-I am currently learning [differential privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf). Welcome any discussions if you are also interested in this field.
+I am currently learning [differential privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf). Welcome to have any discussions if you are also interested in this field.
 
 
 ## Prior Projects
