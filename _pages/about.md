@@ -51,5 +51,3 @@ Current progress (updated to 2023/7/18):
 - L-support: 10 (seconds)
 - Tucked Planche: 10 (seconds)  
 - Wall-assisted handstand： 30 (seconds)
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNab61BCqqN7iSZD6CWpN4qtAnpG4NGD1sq4VmUEeDY&cl=ffffff&w=a"></script>
