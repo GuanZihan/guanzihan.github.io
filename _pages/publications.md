@@ -7,12 +7,12 @@ author_profile: true
 # Conference Publications
 ### 2025
 1. UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models [\[PDF\]](https://arxiv.org/abs/2404.01101) [\[Code\]](https://github.com/GuanZihan/official_UFID) <br>
-**Zihan Guan**[^1], Mengxuan Hu[^1], Sheng Li, Anil Vullikanti<br>
+**Zihan Guan**\*, Mengxuan Hu\*, Sheng Li, Anil Vullikanti<br>
 AAAI Conference on Artificial Intelligence (**AAAI 2025**)
 
 ### 2024
 1. BBCaL: Black-box Backdoor Detection under the Causality Lens [\[PDF\]](https://openreview.net/forum?id=HZi9PfLwMn) [\[Code\]](https://github.com/GuanZihan/BBCaL) <br>
-Mengxuan Hu*, **Zihan Guan***, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Sheng Li<br>
+Mengxuan Hu\*, **Zihan Guan**\*, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Sheng Li<br>
 Transactions on Machine Learning (**TMLR**) (🏆 Featured Certificate)
 
 2. Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3626772.3657673) [\[Code\]](https://github.com/Douglas2Code/Img2Loc) <br>
