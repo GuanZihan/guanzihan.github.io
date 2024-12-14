@@ -38,4 +38,8 @@ Current progress (updated to 2024/12/14):
 - Deadlift: 140kg
 - Sqaut: 100kg
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNab61BCqqN7iSZD6CWpN4qtAnpG4NGD1sq4VmUEeDY&cl=ffffff&w=a"></script>
+
+
+<div style="width: 300px; height: 200px; overflow: hidden;">
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNab61BCqqN7iSZD6CWpN4qtAnpG4NGD1sq4VmUEeDY&cl=ffffff&w=a"></script>
+</div>

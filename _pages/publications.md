@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 # Conference Publications
+\* indicates equal contributions
 ### 2025
 1. UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models [\[PDF\]](https://arxiv.org/abs/2404.01101) [\[Code\]](https://github.com/GuanZihan/official_UFID) <br>
 **Zihan Guan**\*, Mengxuan Hu\*, Sheng Li, Anil Vullikanti<br>
@@ -21,7 +22,7 @@ ACM SIGIR Conference on Research and Development in Information Retrieval (**SIG
 
 3. Text2seg: Remote sensing image semantic segmentation via text-guided visual foundation models [\[PDF\]](https://dl.acm.org/doi/abs/10.1145/3687123.3698287) [\[Code\]](https://github.com/Douglas2Code/Text2Seg) <br>
 Jielu Zhang, Zhongliang Zhou, Gengchen Mai, Mengxuan Hu, **Zihan Guan**, Sheng Li, Lan Mu <br>
-ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery, (**GeoAI 2024**)
+ACM SIGSPATIAL International Workshop on AI for Geographic Knowledge Discovery (**GeoAI 2024**)
 
 ### 2023
 1. XGBD: Explanation-Guided Graph Backdoor Detection [\[PDF\]](https://arxiv.org/abs/2308.04406)[\[Code\]](https://github.com/GuanZihan/GNN_backdoor_detection) <br>
