@@ -1,16 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">For full list of publications, please see <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
-<!-- {% include base_path %} -->
-
 # Conference Publications
 ### 2025
 1. UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models [\[PDF\]](https://arxiv.org/abs/2404.01101) [\[Code\]](https://github.com/GuanZihan/official_UFID) <br>
