@@ -16,28 +16,19 @@ I am broadly interested in Machine Learning Security, Privacy, Trustworthy AI, a
 I am currently learning [differential privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf). Welcome to have any discussions if you are also interested in this field.
 
 
-## Prior Projects
-### XGBD: Explanation-Guided Graph Backdoor Detection
-Zihan Guan, Mengnan Du, Ninghao Liu, ECAI 2023, Poland
-<div>
-<img src="/images/xgbd.png" alt="xgbd"  width="576" height="216"/>
-</div>
-[[paper](https://arxiv.org/abs/2308.04406)][[code](https://github.com/GuanZihan/GNN_backdoor_detection)]
+## Recent News
 
+- Oue paper for unified black-box backdoor detection on diffusion models has been accepted by AAAI 2025.
 
-### Feature Synchronization in Backdoor Attacks
-Zihan Guan, Lichao Sun, Mengnan Du, Ninghao Liu, CIKM 2023, UK
-<div>
-<img src="/images/dba.png" alt="DBA"  width="576" height="216"/>
-</div>
-[[paper](https://openreview.net/pdf?id=wxyLBOk-ag)][code]
+- Oue paper for black-box backdoor detection with causal inference has been accepted by TMLR (Featured Certificate 🏆).
 
-### A Tightened SDP Relaxation for Neural Network Verification Problem [Master Thesis]
-Zihan Guan, Yang zheng, Alessio Lomuscio
-<div>
-<img src="/images/verification.png" alt="Verfication"  width="576" height="216"/>
-</div>
-[[paper](https://drive.google.com/file/d/1ytRh9aEzI-TtyV5WFTIGDT2NA3RcQzaL/view?usp=sharing)][[code]((https://github.com/soc-ucsd/verification))]
+- One paper for using LLM and RAG for image geo-localization is accepted by SIGIR 2024!
+
+- One paper for backdoor attacks on SAM BadSAM is accepted by AAAI 2024!
+
+- One paper for explanability-driven backdoor detection on graph neural networks is accepted by ECAI 2023!
+
+- One paper about enhanced deep backdoor attacks is accepted by CIKM 2023!
 
 
 ## Miscellaneous
