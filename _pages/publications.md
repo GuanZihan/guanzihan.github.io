@@ -7,7 +7,7 @@ author_profile: true
 # Conference Publications
 ### 2025
 1. UFID: A Unified Framework for Input-level Backdoor Detection on Diffusion Models [\[PDF\]](https://arxiv.org/abs/2404.01101) [\[Code\]](https://github.com/GuanZihan/official_UFID) <br>
-**Zihan Guan***, Mengxuan Hu*, Sheng Li, Anil Vullikanti<br>
+**Zihan Guan**$^*$, Mengxuan Hu$^*$, Sheng Li, Anil Vullikanti<br>
 AAAI Conference on Artificial Intelligence (AAAI 2025)
 
 ### 2024
