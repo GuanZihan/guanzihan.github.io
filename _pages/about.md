@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<p style="font-family: 'Courier New', monospace;">
+
 I am a second year Ph.D. student in [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Anil Vullikanti](https://engineering.virginia.edu/faculty/anil-vullikanti). Prior to that, I obtained my master degree in [Imperial College London](https://www.imperial.ac.uk/), where I worked with Prof. [Alessio](https://www.imperial.ac.uk/people/a.lomuscio) and Dr. [Yang Zheng](https://zhengy09.github.io), and I obtained my bachelor degree in [Dalian University of Technology](http://en.dlut.edu.cn/), where I worked with Prof. [Xuewen Huang](http://faculty.dlut.edu.cn/2006011040/zh_CN/index.htm)
 
 
@@ -37,6 +40,7 @@ Current progress (updated to 2024/12/14):
 - Bench Press: 84kg
 - Deadlift: 140kg
 - Sqaut: 100kg
+<p style="font-family: 'Courier New', monospace;">
 
 
 
