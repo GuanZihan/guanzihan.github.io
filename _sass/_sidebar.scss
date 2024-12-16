@@ -12,7 +12,7 @@
   
     @include clearfix();
     margin-bottom: 1em;
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive; // Set font to Comic Sans MS
+    font-family: "Monaco", "Consolas", "Lucida Console", monospace;
   
     @include breakpoint($large) {
       @include span(2 of 12);
@@ -31,7 +31,7 @@
   
     h2, h3, h4, h5, h6 {
       margin-bottom: 0;
-      font-family: 'Comic Sans MS', 'Comic Sans', cursive; // Set font to Comic Sans MS
+      font-family: "Monaco", "Consolas", "Lucida Console", monospace;
     }
   
     h3, h4 {
@@ -39,7 +39,7 @@
     }
   
     p, li {
-      font-family: 'Comic Sans MS', 'Comic Sans', cursive; // Set font to Comic Sans MS
+      font-family: "Monaco", "Consolas", "Lucida Console", monospace;
       font-size: $type-size-6;
       line-height: 1.5;
     }
@@ -117,7 +117,7 @@
     }
   }
   .sidebar .author__name {
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive; // Set font to Comic Sans MS
+    font-family: "Monaco", "Consolas", "Lucida Console", monospace;
     font-size: $type-size-5;
   }
   
@@ -134,7 +134,7 @@
     position: relative;
     display: table-cell;
     vertical-align: middle;
-    font-family: 'Comic Sans MS', 'Comic Sans', cursive; // Set font to Comic Sans MS
+    font-family: "Monaco", "Consolas", "Lucida Console", monospace;
     z-index: 10;
     position: relative;
     cursor: pointer;
