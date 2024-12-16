@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  font-family: 'Mono', monospace;
 
   @include breakpoint($large) {
     @include span(2 of 12);
@@ -31,15 +32,15 @@
 
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: 'Mono', monospace;
   }
 
   h3, h4 {
-    font-size: $type-size-5;
+    font-size: $type-size-6;
   }
 
   p, li {
-    font-family: $sans-serif;
+    font-family: 'Mono', monospace;
     font-size: $type-size-6;
     line-height: 1.5;
   }
@@ -118,7 +119,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-6;
 }
 
 .author__bio {
@@ -134,7 +135,7 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  font-family: 'Mono', monospace;
   z-index: 10;
   position: relative;
   cursor: pointer;
@@ -227,7 +228,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-6;
     text-decoration: none;
 
     &:hover {
