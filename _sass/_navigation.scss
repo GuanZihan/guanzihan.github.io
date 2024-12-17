@@ -204,6 +204,7 @@
   .visible-links {
     display: table;
     font-family: "Monaco", "Consolas", "Lucida Console", monospace;
+    font-size: $type-size-4;
 
     li {
       display: table-cell;
