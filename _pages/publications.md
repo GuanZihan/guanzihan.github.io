@@ -12,6 +12,10 @@ author_profile: true
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> **Zihan Guan**\*, Mengxuan Hu\*, Sheng Li, Anil Vullikanti </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> AAAI Conference on Artificial Intelligence (**AAAI 2025**) </span>
 
+2. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mind Control through Causal Inference: Predicting Clean Images from Poisoned Data [\[PDF\]](https://openreview.net/forum?id=ho4mNiwr2n) [\[Code\]](https://openreview.net/forum?id=ho4mNiwr2n) </span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mengxuan Hu\*, **Zihan Guan**\*, Yi Zeng, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Ruoxi Jia, Anil Vullikanti, Sheng Li</span> <br>
+<span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> AAAI Conference on Artificial Intelligence (**AAAI 2025**) </span>
+
 ### <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">2024 </span>
 1. <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> BBCaL: Black-box Backdoor Detection under the Causality Lens [\[PDF\]](https://openreview.net/forum?id=HZi9PfLwMn) [\[Code\]](https://github.com/GuanZihan/BBCaL) </span> <br>
 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;"> Mengxuan Hu\*, **Zihan Guan**\*, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Sheng Li </span> <br>
