@@ -16,6 +16,8 @@ redirect_from:
 
 ## 📢 <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;">Recent News</span>
 
+- <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">Two papers about LLM alignment and VLM model editing have been accepted by ICML 2025.</span>
+
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for black-box backdoor defense on has been accepted by ICLR 2025.</span>
 
 - <span style="font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace; font-size: 14px;">One paper for unified black-box backdoor detection on diffusion models has been accepted by AAAI 2025.</span>
