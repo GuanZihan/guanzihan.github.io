@@ -3,5 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
     
+  - title: "Miscellaneous"
+    url: /miscellaneous/
+    
   # - title: "CV"
   #   url: /cv/
