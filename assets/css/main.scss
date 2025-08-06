@@ -39,3 +39,9 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+// Custom monospace font class
+.monospace-text {
+  font-family: 'Monaco', 'Consolas', 'Lucida Console', monospace;
+  font-size: 14px;
+}
