@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 ## 🧑‍💻 <span class="monospace-text">Biography</span>
-<span class="monospace-text"> I am a second year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Anil Vullikanti](https://engineering.virginia.edu/faculty/anil-vullikanti). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/), where I worked with Prof. [Alessio](https://www.imperial.ac.uk/people/a.lomuscio) and Dr. [Yang Zheng](https://zhengy09.github.io), and I obtained my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/), where I worked with Prof. [Xuewen Huang](http://faculty.dlut.edu.cn/2006011040/zh_CN/index.htm) </span>
+<span class="monospace-text"> I am a third year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Anil Vullikanti](https://engineering.virginia.edu/faculty/anil-vullikanti). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/) and my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
 
 
 ## 📚 <span class="monospace-text">Research Interests</span>
-<span class="monospace-text">I am broadly interested in Large Language Models, Generative AI, especially from a safety and privacy lens.</span>
+<span class="monospace-text">I am broadly interested in Trustworthy AI and AI fr Healthcare.</span>
 
 ## 📢 <span class="monospace-text">Recent News</span>
 
