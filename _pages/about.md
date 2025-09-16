@@ -12,7 +12,7 @@ redirect_from:
 
 
 ## 📚 <span class="monospace-text">Research Interests</span>
-<span class="monospace-text">I am broadly interested in Trustworthy AI and AI fr Healthcare.</span>
+<span class="monospace-text">I am broadly interested in Trustworthy AI and AI for Healthcare.</span>
 
 ## 📢 <span class="monospace-text">Recent News</span>
 
@@ -36,8 +36,8 @@ redirect_from:
 
 - <span class="monospace-text">One paper about enhanced deep backdoor attacks is accepted by CIKM 2023!</span>
 
-<center>
+<!-- <center>
 <div style="width: 300px; height: 200px; overflow: hidden;">
   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=sNab61BCqqN7iSZD6CWpN4qtAnpG4NGD1sq4VmUEeDY&cl=ffffff&w=a"></script>
 </div>
-</center>
+</center> -->
