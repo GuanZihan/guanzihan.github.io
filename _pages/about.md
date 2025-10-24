@@ -8,13 +8,19 @@ redirect_from:
   - /about.html
 ---
 ## 🧑‍💻 <span class="monospace-text">Biography</span>
-<span class="monospace-text"> I am a third year Ph.D. student at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Anil Vullikanti](https://engineering.virginia.edu/faculty/anil-vullikanti). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/) and my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
+<span class="monospace-text"> I am a third year Ph.D. candidate at [University of Virginia](https://www.virginia.edu/), supervised by Prof. [Anil Vullikanti](https://engineering.virginia.edu/faculty/anil-vullikanti). Prior to that, I obtained my master degree at [Imperial College London](https://www.imperial.ac.uk/) and my bachelor degree at [Dalian University of Technology](http://en.dlut.edu.cn/) </span>
 
 
 ## 📚 <span class="monospace-text">Research Interests</span>
 <span class="monospace-text">I am broadly interested in Trustworthy AI and AI for Healthcare.</span>
 
 ## 📢 <span class="monospace-text">Recent News</span>
+
+- <span class="monospace-text">I officially become a Ph.D. Candidate 🧠</span>
+
+ - <span class="monospace-text"> One paper about agentic AI system for the 🧬 pharmacuetical data analysis has been accepted by NeurIPS 2025 Workshop (GenAI4Health)! </span>
+
+- <span class="monospace-text"> One paper for fairness in retrieval-augmented generation has been accepted by EMNLP Findings 2025! </span>
 
 - <span class="monospace-text"> One paper on exploring the vulnerabilities of large pre-trained models via model editing is accepted at ACM CIKM 2025. </span>
 
@@ -31,6 +37,8 @@ redirect_from:
 - <span class="monospace-text">One paper for using LLM and RAG for image geo-localization is accepted by SIGIR 2024!</span>
 
 - <span class="monospace-text">One paper for backdoor attacks on SAM BadSAM is accepted by AAAI 2024 students abstract!</span>
+
+- <span class="monospace-text">One paper about backdoor puritification is accepted by NeurIPS 2023!</span>
 
 - <span class="monospace-text">One paper for explanability-driven backdoor detection on graph neural networks is accepted by ECAI 2023!</span>
 

@@ -28,6 +28,15 @@ author_profile: true
 <span class="monospace-text"> Dongliang Guo, Mengxuan Hu, **Zihan Guan**, Junfeng Guo, Thomas Hartvigsen, Sheng Li </span> <br>
 <span class="monospace-text"> The Conference on Information and Knowledge Management (**CIKM 2025**) </span>
 
+6. <span class="monospace-text"> No free lunch: Retrieval-augmented generation undermines fairness in LLMs, even for vigilant users </span> <br>
+<span class="monospace-text"> Mengxuan Hu\*, Hongyi Wu\*, **Zihan Guan**, Ronghang Zhu, Dongliang Guo, Daiqing Qi, and Sheng Li </span> <br>
+<span class="monospace-text"> Findings of The Conference on Empirical Methods in Natural Language Processing (EMNLP 2025) </span>
+
+
+7. <span class="monospace-text"> PharmaData-Agent: A Specialized Agent for Pharmaceutical Data Analysis </span> <br>
+<span class="monospace-text"> **Zihan Guan**, Hanyin Wang, Zhongliang Zhou, Qiaohui Zhou, Peining Tao, Junshui Ma </span> <br>
+<span class="monospace-text"> NeurIPS 2025 Workshop GenAI4Health </span>
+
 ### <span class="monospace-text">2024 </span>
 1. <span class="monospace-text"> BBCaL: Black-box Backdoor Detection under the Causality Lens [\[PDF\]](https://openreview.net/forum?id=HZi9PfLwMn) [\[Code\]](https://github.com/GuanZihan/BBCaL) </span> <br>
 <span class="monospace-text"> Mengxuan Hu\*, **Zihan Guan**\*, Junfeng Guo, Zhongliang Zhou, Jielu Zhang, Sheng Li </span> <br>
